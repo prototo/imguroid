@@ -1,3 +1,6 @@
+# constants contains api key etc
+Imguroid/src/main/java/com/prototo/imguroid/Constants.java
+
 .gradle
 /local.properties
 /.idea/workspace.xml
@@ -32,3 +35,4 @@ proguard/
 *.ipr
 *.iws
 .idea/
+.idea/*
